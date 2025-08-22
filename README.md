@@ -1,5 +1,6 @@
 # Proyecto-TC1028
 ## Contexto
-Desde 1958, los videojuegos han sido una fuente de entretenimiento para el mundo.
-Ahora, en 20025, también han sido una fuente de inspiración para mí, por lo que en este proyecto, busco hacer un videojuego.
-La idea que tenía es que fuera algún tipo de rpg con elementos básicos, aunque ya que estiy bastante seguro que va a ser complejo hhacer algo por el estilo, la idea puede cambiar.
+Alrededor de los 1800s, se comenzó a jugar veinituno, un juego de cartas que, de una manera u otra, evolucionó a lo que ahora conocemos como blackjack.
+El objetivo de éste programa será el de encontrar la manera óptima de jugar y ganar puntos, para cual se deberá tomar en cuenta distintos factores, como las reglas con las que se estén jugando, las cartas pasadas, etc.
+## Disclaimer
+Apostar no es bueno, no apuesten. El proyecto no tiene como objetivo incitar o promover el apostar.
